@@ -1,2 +1,5 @@
 # Guessing-Game
-This is my first repository. This program was made using java. 
+Hi, This is my first repository using the GitHub tutorials!
+nvsnvjnvsd vlnvnsnv'dvnsdkv
+vsvnlnvjoncvdsf
+vdsjvndlsjvn
